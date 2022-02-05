@@ -11,8 +11,10 @@
 + DenseNet 논문리뷰 - [Densely Connected Convolutional Networks(2017)](https://arxiv.org/pdf/1608.06993.pdf)
 + [VisionTransformer 논문]()
 #### 과제1. Classification Project - Kaggle에 있는 classification task를 진행하여 인사이트 뽑아보기.
-[과제1을 수행한 개인 블로그 포스팅](https://inhovation97.tistory.com/43)
+[과제1을 수행한 개인 블로그 포스팅](https://inhovation97.tistory.com/43)   
 [DenseNet논문을 리뷰한 개인 블로그 포스팅](https://inhovation97.tistory.com/47)
+
+
 
 
 ## week2 ~ 3 - Image Segmentation
