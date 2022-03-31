@@ -1,4 +1,4 @@
-# Get-an-education-Computer-Vision
+# Get-an-education-for-Computer-Vision
 📜 Complete In-depth course in Computer Vision
 
 [서울ICT이노베이션스퀘어](https://ict.eksa.or.kr/portal/applyconfirm_ict/main.user?paramMap.finalGbn=N)에서 교육생을 선발하여 진행하는 인공지능 심화 시각지능 프로젝트 개발 과정을 수료함.
