@@ -61,7 +61,7 @@
 + Neural Style Transfer - [Image Style Transfer Using Convolutional Neural Networks(2015)](https://arxiv.org/pdf/1508.06576.pdf) 논문 리뷰 & 실습 [code](https://github.com/inhovation97/Get-an-education-Computer-Vision/blob/main/GAN/Style_transfer_20210802.ipynb)   
 + SR GAN - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network(2017)](https://arxiv.org/pdf/1609.04802.pdf) 논문 리뷰 & 실습[code](https://github.com/inhovation97/Get-an-education-Computer-Vision/blob/main/GAN/SRGAN_20210615.ipynb)   
 #### 개인 프로젝트 1 - fine tuning으로 style transfer의 style을 더욱 강력하게 입혀보기
-> vggnet을 fine tuning하여 심슨 이미지를 분류하는 모델을 만든 뒤, 해당 모델의 ConV Network을 이용하여 좀 더 강한 심슨풍의 이미지를 유도해봤습니다!
+> vggnet을 fine tuning하여 심슨 이미지를 분류하는 모델을 만든 뒤, 해당 모델의 ConV Network을 이용하여 좀 더 강한 심슨풍의 이미지를 유도해봤습니다!   
 > [VggNet fine tuning 적용 코드](https://github.com/inhovation97/Get-an-education-Computer-Vision/blob/main/GAN/project1/pretraining_style_transfer.ipynb)   
 > [style transfer 적용 코드](https://github.com/inhovation97/Get-an-education-Computer-Vision/blob/main/GAN/project1/style_transfer_in_pytorch.ipynb)   
 >   
